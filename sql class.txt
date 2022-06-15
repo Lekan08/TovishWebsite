@@ -1,0 +1,70 @@
+INTRODUCTION TO SQL
+STRUCTURED DATABASE
+
+
+MY  SQL 
+ DIFFERENT COMMAND IN SQL
+ 4 MAJOR DB OPERATION 
+ CRUDE OPERATIONS
+ CREATING OPERATION
+`~~~~~~~INSERT INTO(TABLENAME COLUMN 1,2,...N) VALUES (VALUES 1,2,...N);
+READ(FOUR EVERY 4 CREATE U DO  YOU DO 100 READS)~~~~~~~
+-COLLECTION OF DATA (GET , FETCH  & ANALYSIS)
+WE USE "SELECT" ~~~~~(SELECT * FROM (TABLE NAME);
+GETING THE INFORMATION FROM THE LIST OF THE USERS~~~~~~~~~~~~SELECT * FROM (USER) WHERE BANKNAME="GTB";
+                                                             SELECT*FROM (USER) WHERE BANKNAME="GTB" AND "GENDER"="MALE";
+															 SELECT ID,LASTNAME FROM USER WHERE GENDER ="FEMALE";
+															SELECT * FROM USERS ORDER BY AGE ASC
+ASSIGNMENT
+TOP <The SELECT TOP clause is used to specify the number of records to return.
+
+The SELECT TOP clause is useful on large tables with thousands of records. Returning a large number of records can impact performance.
+
+Note: Not all database systems support the SELECT TOP clause. MySQL supports the LIMIT clause to select a limited number of records, while Oracle uses FETCH FIRST n ROWS ONLY and ROWNUM.
+
+SQL Server / MS Access Syntax:
+
+SELECT TOP number|percent column_name(s)
+FROM table_name
+WHERE condition;
+MySQL Syntax:
+
+SELECT column_name(s)
+FROM table_name
+
+download tutorial on digital lotions
+
+WHERE condition
+LIMIT number;>
+DISTINCT  <he SELECT DISTINCT statement is used to return only distinct (different) values.
+
+Inside a table, a column often contains many duplicate values; and sometimes you only want to list the different (distinct) values.
+
+SELECT DISTINCT Syntax
+SELECT DISTINCT column1, column2, ...
+FROM table_name;>
+ LIMITING  <1.>
+ MIN & MAX
+ IN
+ BETWEEN 
+ LIKE <The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.
+
+There are two wildcards often used in conjunction with the LIKE operator:
+
+ The percent sign (%) represents zero, one, or multiple characters
+ The underscore sign (_) represents one, single character
+Note: MS Access uses an asterisk (*) instead of the percent sign (%), and a question mark (?) instead of the underscore (_).
+
+The percent sign and the underscore can also be used in combinations!
+
+LIKE Syntax
+SELECT column1, column2, ...
+FROM table_name
+WHERE columnN LIKE pattern;>
+
+
+
+
+
+
+how to strict inbone connection (ip addreses)
