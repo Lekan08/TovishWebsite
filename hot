@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Basic Page Needs
+    ================================================== -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Pixel Perfect Portfolio</title>
+
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="keywords" content="">
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Varela" rel="stylesheet">
+
+    <!-- Favicon
+    ================================================== -->
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
+    <link rel="icon" sizes="16x16" href="assets/img/favicon.ico">
+    <link rel="manifest" href="assets/img/manifest.json">
+    <link rel="mask-icon" href="assets/img/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Stylesheets
+    ================================================== -->
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+
+    <!-- Font Awesome core CSS -->
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css" />
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+
+    <!-- Hero Section, Background Image change in css -->
+    <div id="top" class="hero background-overlay">
+    
+        <!-- Name & Description -->
+        <div class="hero-content">
+            <h1>tovish lands</h1>
+            <p class="hero-job"><span>welcome to tovish lands</span></p>
+            <p class="hero-job-desc">the best place to buy lands from various places  &amp; at affordable prices. </p>
+
+        </div><!-- /.hero-content -->
+
+        <div class="hero-arrow page-scroll home-arrow-down">
+            <a class="" href="#intro"><i class="fa fa-angle-double-down" aria-hidden="true"></i></a>
+        </div><!-- /.hero-arrow -->
+
+    </div><!-- /.hero -->
+    <!-- End Hero -->
+
+    <!-- Header -->
+    <header id="masthead" class="site-header">
+        <nav id="primary-navigation" class="site-navigation" data-spy="affix">
+            <div class="container">
+                <div class="navbar-header page-scroll">
+
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#portfolio-perfect-collapse" aria-expanded="false" >
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    
+                    <!-- Name -->
+                    <div class="page-scroll site-logo">
+                        <a href="#top">John</a>
+                    </div>
+
+                </div><!-- /.navbar-header -->
+
+                <div class="main-menu collapse navbar-collapse" id="portfolio-perfect-collapse">
+
+                    <!-- Navigation -->
+                    <ul class="nav navbar-nav navbar-right">
+
+                        <li class="page-scroll"><a href="#top">All</a></li>
+                        <li class="page-scroll"><a href="#hot deals">hot deals</a></li>
+                        <li class="page-scroll"><a href="#new">new</a></li>
+                        
+                    </ul><!-- /.navbar-nav -->
+
+                </div><!-- /.navbar-collapse -->
+            </div>
+        </nav><!-- /.primary-navigation -->
+    </header><!-- /#header -->
+    <!-- End Header -->
+        <!-- land section -->
+        <section class="site-section section-team" id="land">
+            <div class="container">
+                <h2>TOVISH lands</h2>
+                <p class="section-subtitle"><span>This is where you can find out all about lands available at tovish</span></p>
+                
+                <div class="team">
+                    <div class="row">   
+                        <!-- ALL LANDS --> 
+                        <div class="col-md-3 col-xs-6">
+                            <div class="team-member">
+                                <div class="flipper">
+                                    <div class="team-member-front">
+                                        <div class="team-member-thumb">
+                                            <img src="land 2.jfif" class="img-res" alt="">
+                                        </div>  <!-- /.team-member-thumb -->
+                                        <p class="team-member-front-name">lagos island</p>
+                                    </div><!-- /.team-member-front -->
+                                    <div class="team-member-back">
+                                        <div class="team-member-info">
+                                            <h3 class="team-member-back-name"></h3>
+                                            <p class="team-member-back-location">lekki phase 1</p>
+                                            <p class="team-member-back-info">residentail plots of land for sale in lekki at just 600sqm-20million.</p>
+                                            <div class="social-icons small">
+                                                <a href="#" class="rectangle"><i class="fa fa-whatsapp"></i></a>
+                                            </div>
+                                        </div><!-- /.team-member-back-info -->
+                                    </div><!-- /.team-member-back -->  
+                                </div>         
+                            </div><!-- /.team-member -->       
+                        </div>
+                        <!-- Team Member --> 
+                        <div class="col-md-3 col-xs-6">
+                            <div class="team-member">
+                                <div class="flipper">
+                                    <div class="team-member-front">
+                                        <div class="team-member-thumb">
+                                            <img src="land 3.png" class="img-res" alt="">
+                                            <p class="team-member-front-name">epe lagos</p>
+                                        </div>  <!-- /.team-member-thumb -->
+                                        
+                                    </div><!-- /.team-member-front -->
+                                    <div class="team-member-back">
+                                        <div class="team-member-info">
+                                            <h3 class="team-member-back-name"></h3>
+                                            <p class="team-member-back-position">epe lagos</p>
+                                            <p class="team-member-back-info">land for sale in epe lagos a serviced plots for sale in epe 600sqm-1.2 million. </p>
+                                            <div class="social-icons small">
+                                                <a href="#" class="rectangle"><i class="fa fa-whatsapp"></i></a>
+                                            </div>
+                                        </div><!-- /.team-member-back-info -->
+                                    </div><!-- /.team-member-back -->  
+                                </div>         
+                            </div><!-- /.team-member -->       
+                        </div>
+                        <!-- Team Member --> 
+                        <div class="col-md-3 col-xs-6">
+                            <div class="team-member">
+                                <div class="flipper">
+                                    <div class="team-member-front">
+                                        <div class="team-member-thumb">
+                                            <img src="land 4.jfif" class="img-res" alt="">
+                                        </div>  <!-- /.team-member-thumb -->
+                                        <p class="team-member-front-name">alimosho</p>
+                                    </div><!-- /.team-member-front -->
+                                    <div class="team-member-back">
+                                        <div class="team-member-info">
+                                            <h3 class="team-member-back-name"></h3>
+                                            <p class="team-member-back-position">alimosho</p>
+                                            <p class="team-member-back-info">services plot for sale in lagos mainland 600sqm. </p>
+                                            <div class="social-icons small">
+                                                <a href="#" class="rectangle"><i class="fa fa-whatsapp"></i></a>                                            </div>
+                                        </div><!-- /.team-member-back-info -->
+                                    </div><!-- /.team-member-back -->  
+                                </div>         
+                            </div><!-- /.team-member -->       
+                        </div>
+                        <!-- Team Member --> 
+                        <div class="col-md-3 col-xs-6">
+                            <div class="team-member">
+                                <div class="flipper">
+                                    <div class="team-member-front">
+                                        <div class="team-member-thumb">
+                                            <img src="land 5.jfif" class="img-res" alt="">
+                                        </div>  <!-- /.team-member-thumb -->
+                                        <p class="team-member-front-name">ibeju lekki lagos</p>
+                                    </div><!-- /.team-member-front -->
+                                    <div class="team-member-back">
+                                        <div class="team-member-info">
+                                            <h3 class="team-member-back-name"></h3>
+                                            <p class="team-member-back-position">ibeju lekki lagos</p>
+                                            <p class="team-member-back-info">serviced plot for sale in ibeju lekki lagos approved government wxcision price at 7million plot size.</p>
+                                            <div class="social-icons small">
+                                                <a href="#" class="rectangle"><i class="fa fa-whatsapp"></i></a>
+                                            </div>
+                                        </div><!-- /.team-member-back-info -->
+                                    </div><!-- /.team-member-back -->  
+                                </div>         
+                            </div><!-- /.team-member -->       
+                        </div>
+                    </div>
+                </div><!-- /.team -->   
+            </div>
+                <!-- Team Member --> 
+                <div class="col-md-3 col-xs-6">
+                    <div class="team-member">
+                        <div class="flipper">
+                            <div class="team-member-front">
+                                <div class="team-member-thumb">
+                                    <img src="land 5.jfif" class="img-res" alt="">
+                                </div>  <!-- /.team-member-thumb -->
+                                <p class="team-member-front-name">VI lagos</p>
+                            </div><!-- /.team-member-front -->
+                            <div class="team-member-back">
+                                <div class="team-member-info">
+                                    <h3 class="team-member-back-name"></h3>
+                                    <p class="team-member-back-position">VI lagos</p>
+                                    <p class="team-member-back-info">serviced plot for sale in ibeju lekki lagos approved government wxcision price at 7million plot size.</p>
+                                    <div class="social-icons small">
+                                        <a href="#" class="rectangle"><i class="fa fa-whatsapp"></i></a>
+                                    </div>
+                                </div><!-- /.team-member-back-info -->
+                            </div><!-- /.team-member-back -->  
+                        </div>         
+                    </div><!-- /.team-member -->       
+                </div>
+            </div>
+        </div><!-- /.team -->   
+    </div>
+
+
+
+
+
+
+
+
+
+
+    
